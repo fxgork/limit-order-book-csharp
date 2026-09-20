@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/bench/">
+    <Project Path="bench/OrderBook.Benchmarks/OrderBook.Benchmarks.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/OrderBook/OrderBook.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/OrderBook.Tests/OrderBook.Tests.csproj" />
+  </Folder>
+</Solution>
